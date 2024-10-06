@@ -8,7 +8,7 @@ function bandingkanAngka(angka1, angka2) {
         return true;
     } else if (angka1 > angka2) {
         return false;
-    } else if (angka1 = angka2) {
+    } else if (angka1 == angka2) {
         return -1;
     }
   }
